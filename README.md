@@ -4,4 +4,4 @@ In order to graduate, every Rhode Island School of Design MFA grad is required t
 
 With a month's worth of coding knowledge, I built a digital home for my writing.
 
-http://alongshot.xyz/
+This repository was just the beginning. The completed work lives here: http://alongshot.xyz/
